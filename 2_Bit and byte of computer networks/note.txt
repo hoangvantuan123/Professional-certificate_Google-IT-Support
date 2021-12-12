@@ -1,2 +1,0 @@
-Tuần 1:
-Bài 1 : Mô hình mạng năm lớp TCP/IP
